@@ -8,7 +8,7 @@
  - The template of project is downloaded and it is necessary to implement some methods for the project to work correctly.
 
 ### 📝 Challenges
- - ✔️ handleCreateNewTask: It should be possible to add a new task in the `tasks` state, with an `id` should be created randomly, the `title` should be a text and `isComplete` which should start as false. 
+ - ✔️ handleCreateNewTask: It should be possible to add a new task in the `tasks` state with an `id` that should be created randomly, the `title` should be a text and `isComplete` which should start as false. 
  - ✔️ handleToggleTaskCompletion: Must change the status of `isComplete` for a task with a specific ID that is received by parameter.
  - ✔️ handleRemoveTask: Must receive an ID per parameter and remove a task that contains that ID from the state.
 
