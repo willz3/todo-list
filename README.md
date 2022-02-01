@@ -4,7 +4,7 @@
 
 
 ### 🚀 About this project
- - This project is a challenge of a to-do list system. 
+ - This project is a challenge to create a to-do list system. 
  - The template of project is downloaded and it is necessary to implement some methods for the project to work correctly.
 
 ### 📝 Challenges
